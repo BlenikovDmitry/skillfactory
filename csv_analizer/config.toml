@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00008B"      # Основной цвет (кнопки и т.д.)
+backgroundColor = "#228B22"   # Цвет фона
+secondaryBackgroundColor = "#F5F5DC" # Фон боковой панели
+textColor = "#000000"         # Цвет текста
+font = "sans serif"           # Шрифт
